@@ -11,8 +11,8 @@ I work remotely and like to travel a lot.
 
 ### Languages and tools I work with:
 
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" height="25"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLrpuKlKe8VdORfiCe6t0CbdIJoZ_4wynQ&s" height="25"></code>
-<code><img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/08/JavaScript-logo.png?ssl=1" height="25"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" height="25"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyLrpuKlKe8VdORfiCe6t0CbdIJoZ_4wynQ&s" height="30"></code>
+<code><img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/08/JavaScript-logo.png?ssl=1" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" height="30"></code>
 
