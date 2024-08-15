@@ -16,3 +16,14 @@ I work remotely and like to travel a lot.
 <code><img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/08/JavaScript-logo.png?ssl=1" width="35"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&s" width="35"  height="40"></code>
 
+
+
+
+
+
+<br />
+
+- 📍 &nbsp; Current location: Karshi, Uzbekistan
+- 📝 &nbsp; Ask me about anything, I am happy to help
+- 📨 &nbsp; How to reach me: [@azizjontoirov](https://t.me/azizjon_dev)
+  
