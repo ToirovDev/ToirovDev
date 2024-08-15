@@ -1,1 +1,1 @@
-### Hi, I'm Azizjon. Azizjon Toirov <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZjdzR4Z3FuazQ2czY5ZTIyMGptcnFjdjZqemJ3amljemRyNzlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="30px">
+### Hi, I'm Azizjon Toirov <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZjdzR4Z3FuazQ2czY5ZTIyMGptcnFjdjZqemJ3amljemRyNzlpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="30px">
